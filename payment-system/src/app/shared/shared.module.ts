@@ -18,6 +18,7 @@ import { CardComponent } from './card/card.component';
   exports: [
     ChartComponent,
     TransactionComponent,
+    CardComponent,
   ]
 })
 export class SharedModule { }

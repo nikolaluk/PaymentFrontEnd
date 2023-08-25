@@ -1,3 +1,7 @@
 .shadow-md-above {
     box-shadow: 0 -4px 6px -1px rgba(117, 117, 117, 0.1);
   }
+
+.custom-color{
+  background-color: white;
+}
